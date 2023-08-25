@@ -43,8 +43,7 @@
 ### 6. Inserción de Datos
 | Añadir un evento al botón Ingresar                                                                                                              |
 |-------------------------------------------------------------------------------------------------------------------------------------------------|
-| Mediante un objeto de la clase PreparedStatement se ejecutará el query enviado como argumento del método preparedStatement del objeto conexión. |
-| ![img_7.png](img/img_7.png)                                                                                                                         |
+| Mediante un objeto de la clase PreparedStatement se ejecutará el query enviado como argumento del método preparedStatement del objeto conexión. |                                                                         
 | **Prueba de la inserción de un registro en la tabla Persona**                                                                                   |
 |  ![img_8.png](img/img_8.png)                                                                                                                                               <br/>![img_9.png](img/img_9.png)|
 
